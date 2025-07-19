@@ -1,0 +1,2 @@
+\r\nOK\r\n
+\r\nERROR\r\n
